@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+__MACOSX/
+.DS_Store
+.venv/
+venv/
+*.pyc
+.pytest_cache/
