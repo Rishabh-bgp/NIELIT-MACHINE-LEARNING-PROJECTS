@@ -1,10 +1,14 @@
 # NIELIT Machine Learning Projects
 
-Subject label: Information Systems. The repository is public and released under the MIT License.
+Nineteen problems. Nineteen notebooks. One pipeline, taken from a raw table to a number you can defend.
 
-A catalog of nineteen classical machine learning projects, prepared as runnable Jupyter notebooks. The collection covers binary classification, text classification, regression, clustering, and content-based recommendation. Every bundled project can be opened from a fresh clone: the dataset sits next to the notebook, and the old Google Colab paths have been rewritten to local `data/` files.
+This is an open Information Systems collection: public, MIT-licensed, and built to be run, not admired from a distance. Sonar returns become a mine-or-rock call. A loan file becomes an approval decision. A mall receipt becomes five customer segments. A movie blurb becomes a nearest-title recommendation. Each case is a classical model — logistic regression, a support vector machine, a random forest, XGBoost, K-Means, or TF-IDF with cosine similarity — written out in the open, with the split, the seed, and the score sitting next to the code.
 
-This repository is a practice record, not a production model registry. Scores printed below are the values already saved in the notebook outputs. They describe that run, with that split and that preprocessing. Re-run a notebook before treating a number as current.
+The notebooks started as Google Colab exercises. They now live as a catalog. Bundled data sits beside the notebook that uses it. `/content/...` mounts are gone. A fresh clone and `pip install -r requirements.txt` are enough to open a project and execute it.
+
+The scores in the catalog are the ones saved in those runs. They are evidence from a teaching pipeline, not a leaderboard and not a production claim. Re-run a notebook before you cite a figure. Then argue with the split, not with the slogan.
+
+**Subject:** Information Systems · **License:** [MIT](LICENSE) · **Author:** [Er. Rishabh Aryan](https://github.com/Rishabh-bgp)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
