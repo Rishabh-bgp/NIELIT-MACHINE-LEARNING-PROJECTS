@@ -1,5 +1,7 @@
 # NIELIT Machine Learning Projects
 
+Subject label: Information Systems. The repository is public and released under the MIT License.
+
 A catalog of nineteen classical machine learning projects, prepared as runnable Jupyter notebooks. The collection covers binary classification, text classification, regression, clustering, and content-based recommendation. Every bundled project can be opened from a fresh clone: the dataset sits next to the notebook, and the old Google Colab paths have been rewritten to local `data/` files.
 
 This repository is a practice record, not a production model registry. Scores printed below are the values already saved in the notebook outputs. They describe that run, with that split and that preprocessing. Re-run a notebook before treating a number as current.
@@ -9,6 +11,8 @@ This repository is a practice record, not a production model registry. Scores pr
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-classical%20ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-gradient%20boosting-1A7F37)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
+[![Open source](https://img.shields.io/badge/Open%20source-public-2ea44f)](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS)
+[![Information Systems](https://img.shields.io/badge/Subject-Information%20Systems-1F6FEB)](https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS/labels/Information%20Systems)
 
 ## Contents
 
