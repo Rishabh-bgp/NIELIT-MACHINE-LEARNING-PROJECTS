@@ -26,6 +26,7 @@ This repository is a practice record, not a production model registry. Scores pr
 - [Files that are not bundled](#files-that-are-not-bundled)
 - [Reproducibility](#reproducibility)
 - [Stack](#stack)
+- [Contributing](#contributing)
 - [Author](#author)
 - [License](#license)
 
@@ -270,6 +271,21 @@ Public tables remain the property of their original publishers. This repository 
 | Jupyter | Notebook interface |
 
 Install with `pip install -r requirements.txt`.
+
+## Contributing
+
+Contributions are welcome under the [MIT License](LICENSE). Read [CONTRIBUTING.md](CONTRIBUTING.md) before a new project or a notebook change. Related documents:
+
+| Document | Purpose |
+| --- | --- |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Setup, folder rules, dataset rules, commits, and review |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Expected behaviour in issues and pull requests |
+| [SECURITY.md](SECURITY.md) | Where to report a committed secret |
+| [SUPPORT.md](SUPPORT.md) | What this collection can and cannot help with |
+| [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) | Required summary, checks, and score impact |
+| [Issue templates](.github/ISSUE_TEMPLATE) | Bug, new project, dataset, and documentation |
+
+Use the Information Systems label on issues about the collection. Do not open a public issue for a credential.
 
 ## Author
 

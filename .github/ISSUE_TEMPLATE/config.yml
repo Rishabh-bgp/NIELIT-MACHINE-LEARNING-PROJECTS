@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guide
+    url: https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS/blob/main/CONTRIBUTING.md
+    about: Read this before a large change or a new project.
+  - name: Security report
+    url: https://github.com/Rishabh-bgp/NIELIT-MACHINE-LEARNING-PROJECTS/blob/main/SECURITY.md
+    about: Do not file a public issue for a committed secret.
